@@ -1,0 +1,22 @@
+{
+  "rows": 1260,
+  "columns": 7,
+  "column_names": [
+    "Date",
+    "Open",
+    "High",
+    "Low",
+    "Close",
+    "Adj Close",
+    "Volume"
+  ],
+  "missing_values": {
+    "Date": 0,
+    "Open": 0,
+    "High": 0,
+    "Low": 0,
+    "Close": 0,
+    "Adj Close": 0,
+    "Volume": 0
+  }
+}
